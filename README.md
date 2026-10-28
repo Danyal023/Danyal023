@@ -1,7 +1,7 @@
 # Hi, I'm Engr. Danyal Afzal 👋
 ### Backend Developer | Python | Flask | SQL | Islamabad
 
-Software Engineering graduate (UET Peshawar) | Building scalable backend systems
+Software Engineering graduate (University Of Malakand) | Building scalable backend systems
 
 ### 🔧 Tech Stack
 Python, Flask, SQLAlchemy, JWT, PostgreSQL, SQL (JOINs, Indexing, Transactions, ACID), Git, Postman
