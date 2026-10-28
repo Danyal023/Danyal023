@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Engr. Danyal Afzal 👋
+### Backend Developer | Python | Flask | SQL | Islamabad
 
-<!--
-**Danyal023/Danyal023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate (UET Peshawar) | Building scalable backend systems
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+Python, Flask, SQLAlchemy, JWT, PostgreSQL, SQL (JOINs, Indexing, Transactions, ACID), Git, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- *E-Commerce Backend API* - Users, Products, Orders with JOINs & Pagination
+- *Secure Auth System* - Hashing + JWT
+- *Bank Transfer API* - ACID Transactions
+
+### 📈 Currently Learning
+Advanced SQL Optimization & Backend System Design
+
+### 📫 Connect
+LinkedIn: linkedin.com/in/danyal-afzal | Islamabad, Pakistan
+Open to Backend Intern / Junior Roles
